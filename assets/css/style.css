@@ -1,0 +1,74 @@
+
+/* .tab-menu .header{
+    display: flex;
+    background-color: gray;
+    
+    font-size: 25px;
+    height: 50px;
+}
+.tab-menu .header div{
+    padding-left: 15px;
+    cursor: pointer;
+    padding-top: 6px;
+    
+}
+.tab-menu .header div:hover{
+    background-color: whitesmoke;
+
+}
+.tab-menu .content{
+    border: 1px solid gray;
+    padding: 30px;
+}
+.active{
+    background-color: whitesmoke;
+} */
+
+
+.icons h3{
+    
+    display: inline;
+    color: blue;
+}
+.icons i{
+    font-size: 30px;
+    margin-left: 10px;
+    color: blue;
+    cursor: pointer;
+}
+.disabled{
+    color: grey;
+
+}
+.deactive{
+    display: none;
+    
+}
+
+.news{
+    display: flex;
+    width: 900px;
+    
+    height: 350px;
+    overflow: hidden;
+    position: relative;
+    
+}
+.news .content{
+    
+    width: 200px;
+    height: 230px;
+    margin-left: 20px;
+}
+.news .content img{
+    width: 100%;
+    height: 100%;
+}
+
+
+
+
+
+
+
+
